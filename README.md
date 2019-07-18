@@ -7,3 +7,6 @@ Use Depthwise Convolution instead of Group Convolution to accelerate training Mo
   
 重新编译depthwise_conv，可以极快的加快网络的速度。之前训练`100iter`需要280s，现在只需要28s，将近加快了10倍。
 
+## Usage
+
+
