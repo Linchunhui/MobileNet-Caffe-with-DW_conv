@@ -13,7 +13,7 @@ Use Depthwise Convolution instead of Group Convolution to accelerate training Mo
 具体的：
 ```
 depthwise_conv_layer.hpp   拷贝到  ./caffe/include/caffe/layers/
-depthwise_conv_layer.cpp
+depthwise_conv_layer.cpp   拷贝到  ./caffe/src/caffe/layers/
 depthwise_conv_layer.cu    拷贝到  ./caffe/src/caffe/layers/
 ```
 
